@@ -68,9 +68,9 @@
 
 ### 📈 Statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-compte&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-compte&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-compte&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghodbeny Abdessalem&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghodbeny Abdessalem&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghodbeny Abdessalem&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
