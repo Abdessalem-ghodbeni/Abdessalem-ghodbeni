@@ -3,8 +3,9 @@
 <h3 align="center">Ingénieur Full-Stack Expérimenté | Passionné par les solutions innovantes et la collaboration internationale 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Ing%C3%A9nieur+fullstack+passionn%C3%A9+par+Angular%2C+SpringBoot%2C+React+et+ExpressJS;Toujours+%C3%A0+la+recherche+de+nouveaux+d%C3%A9fis!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Ing%C3%A9nieur+Fullstack+passionn%C3%A9+par+Angular%2C+SpringBoot%2C+React+et+ExpressJS;Toujours+%C3%A0+la+recherche+de+nouveaux+d%C3%A9fis!" />
 </p>
+
 
 
 ---
