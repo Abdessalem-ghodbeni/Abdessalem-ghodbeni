@@ -1,9 +1,9 @@
 # Ghodbeny-Abdessalem
 <h1 align="center">Salut 👋, je suis Abdessalem Ghodbani</h1>
-<h3 align="center">Développeur Full-Stack Expérimenté | Passionné par les solutions innovantes et la collaboration internationale 🚀</h3>
+<h3 align="center">Ingénieur Full-Stack Expérimenté | Passionné par les solutions innovantes et la collaboration internationale 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Ing%C3%A9nieur+Logiciel+%C3%A0+ESPRIT+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Passionn%C3%A9+par+Angular%2C+React+et+Spring+Boot;Toujours+%C3%A0+la+recherche+de+nouveaux+d%C3%A9fis!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Ing%C3%A9nieur+full+%C3%A0+ESPRIT+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Passionn%C3%A9+par+Angular%2C+React+et+Spring+Boot;Toujours+%C3%A0+la+recherche+de+nouveaux+d%C3%A9fis!"/>
 </p>
 
 ---
@@ -23,7 +23,7 @@
   MediColGes est une collaboration internationale avec le laboratoire de recherche en intelligence artificielle de l’Université de Constantine 2, en Algérie.  
   Il s’agit d’une plateforme innovante visant à faciliter la collecte, le traitement, et la normalisation de données médicales multimodales à travers la création de formulaires personnalisés.  
   Conçue pour les chercheurs, les professionnels de santé et les institutions médicales, cette plateforme offre des fonctionnalités avancées de gestion de projet et de collaboration à distance.
-  - **Lien** : [Visitez MedicolGes]([https://hrminded.ai](https://medicolges.netlify.app/))
+  - **Lien** : [Visitez MedicolGes](https://medicolges.netlify.app/)
   
 #### **HRminded.ai**  
 - **Description** : Un écosystème RH innovant intégré avec des fonctionnalités comme des tableaux Kanban, des vidéoconférences, des transcriptions, et une IA avancée pour l’automatisation des offres d’emploi.  
@@ -84,19 +84,19 @@
 
 ### 📫 Me contacter
 <p align="center">
-  <a href="[https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/abdessalem-ghodbeni/)" target="_blank">
+  <a href="https://www.linkedin.com/in/abdessalem-ghodbeni/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ghodbani.abdessalem@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://instagram.com/ton-profil](https://www.instagram.com/sloumaghod/)" target="_blank">
+  <a href="https://www.instagram.com/sloumaghod/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/slouma.ghod" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="[https://ton-site.com](https://abdessalem.netlify.app/)" target="_blank">
+  <a href="https://abdessalem.netlify.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
