@@ -31,6 +31,12 @@
 
 ---
 
+### 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abdessalem-ghodbeni&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ### 💻 Langages et Frameworks
 - **Langages** :  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
